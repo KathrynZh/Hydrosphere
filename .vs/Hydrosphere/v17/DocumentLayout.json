@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Hydrosphere\\Hydrosphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Hydrosphere\\Hydrosphere\\Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutlineController.cs",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs",
+              "RelativeDocumentMoniker": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\OutlineController.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:27:13.778Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocksListView.cs",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@2.8.2\\Editor\\Views\\Locks\\LocksListView.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwJUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:23:32.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StandardWithCaustics.shader",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader",
+              "RelativeDocumentMoniker": "Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader",
+              "RelativeToolTip": "Assets\\Davis3D\\OceanEnvironmentPack\\Shaders\\StandardWithCaustics.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-07-17T21:49:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumpBackWhale.cs",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs",
+              "RelativeDocumentMoniker": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs",
+              "RelativeToolTip": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\HumpBackWhale.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:07:13.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplineWalker.cs",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs",
+              "RelativeDocumentMoniker": "Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs",
+              "RelativeToolTip": "Assets\\Davis3D\\OceanEnvironmentPack\\SplineEditor\\SplineWalker.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:28:50.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharkAudio.cs",
+              "DocumentMoniker": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs",
+              "ToolTip": "D:\\Unity\\Hydrosphere\\Hydrosphere\\Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs",
+              "RelativeToolTip": "Assets\\Davis3D\\OceanEnvironmentPack\\Scripts\\SharkAudio.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:27:01.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
