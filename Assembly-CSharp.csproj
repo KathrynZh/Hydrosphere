@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}</ProjectGuid>
+    <ProjectGuid>{B00F3720-F8E9-32B5-8E6D-EF61CF8918C0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,20 +55,28 @@
     <UnityVersion>2022.3.62f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="D:\Unity\2022.3.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="D:\Unity\2022.3.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\HumpBackWhale.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\ParticleFishRepel.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\BubbleEffect.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\Line.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\SharkAudio.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\BezierControlPointMode.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\SplineDecorator.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\FlyCamera.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\OutlineController.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\BezierSpline.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\SplineWalkerMode.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\BubbleSound.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\SplineWalker.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\HoverSwitch.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\Bezier.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\CausticsController.cs" />
+    <Compile Include="Assets\Davis3D\OceanEnvironmentPack\Scripts\SmoothMovement.cs" />
     <Compile Include="Assets\Davis3D\OceanEnvironmentPack\SplineEditor\BezierCurve.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -76,6 +84,7 @@
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\Jellyfish.shader" />
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\GodRays.shader" />
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\StandardWithCaustics_TwoSide.shader" />
+    <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\SimpleOutline.shader" />
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\Medaka.shader" />
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\JellyfishTendrils.shader" />
     <None Include="Assets\Davis3D\OceanEnvironmentPack\Shaders\FIUtils.cginc" />
