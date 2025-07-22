@@ -360,9 +360,13 @@
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/HoverSwitch.cs"
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/HumpBackWhale.cs"
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/OutlineController.cs"
+<<<<<<< HEAD
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/ParticleFishRepel.cs"
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/SharkAudio.cs"
 "Assets/Davis3D/OceanEnvironmentPack/Scripts/SmoothMovement.cs"
+=======
+"Assets/Davis3D/OceanEnvironmentPack/Scripts/SharkAudio.cs"
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
 "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/Bezier.cs"
 "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/BezierControlPointMode.cs"
 "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/BezierCurve.cs"

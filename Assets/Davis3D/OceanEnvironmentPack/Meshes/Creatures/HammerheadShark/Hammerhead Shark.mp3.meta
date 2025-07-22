@@ -16,7 +16,11 @@ AudioImporter:
   forceToMono: 0
   normalize: 1
   loadInBackground: 0
+<<<<<<< HEAD
   ambisonic: 1
+=======
+  ambisonic: 0
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
   3D: 1
   userData: 
   assetBundleName: 

@@ -19344,7 +19344,11 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1300624,
+<<<<<<< HEAD
       "PayloadLength": 28470,
+=======
+      "PayloadLength": 28155,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -19356,7 +19360,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1329181,
+=======
+      "PayloadOffset": 1328866,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -19608,9 +19616,13 @@
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/HoverSwitch.cs",
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/HumpBackWhale.cs",
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/OutlineController.cs",
+<<<<<<< HEAD
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/ParticleFishRepel.cs",
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/SharkAudio.cs",
         "Assets/Davis3D/OceanEnvironmentPack/Scripts/SmoothMovement.cs",
+=======
+        "Assets/Davis3D/OceanEnvironmentPack/Scripts/SharkAudio.cs",
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
         "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/Bezier.cs",
         "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/BezierControlPointMode.cs",
         "Assets/Davis3D/OceanEnvironmentPack/SplineEditor/BezierCurve.cs",
@@ -19858,7 +19870,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1329277,
+=======
+      "PayloadOffset": 1328962,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 9449,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -20105,7 +20121,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1338839,
+=======
+      "PayloadOffset": 1338524,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "D:\\Unity\\Hydrosphere\\Hydrosphe",
       "Inputs": [],
@@ -20118,7 +20138,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1338964,
+=======
+      "PayloadOffset": 1338649,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 29788,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -20131,7 +20155,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp2",
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1368846,
+=======
+      "PayloadOffset": 1368531,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -20458,7 +20486,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< HEAD
       "PayloadOffset": 1368949,
+=======
+      "PayloadOffset": 1368634,
+>>>>>>> 79b03bb70605300b318c2dfc3435d78931e8fd1e
       "PayloadLength": 10317,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
