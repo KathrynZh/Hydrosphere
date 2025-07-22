@@ -1,4 +1,3 @@
-repository "My project/Hydrosphere@3574336162273@cloud"
+repository "Hydrosphere/Hydrosphere@3574336162273@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"
