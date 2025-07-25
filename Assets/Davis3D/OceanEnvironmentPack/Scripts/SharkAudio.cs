@@ -10,6 +10,7 @@ public class SharkAudio : MonoBehaviour
 
     private Transform mainCameraTransform;
     public OutlineController oc;
+    public FloatingText flotT;
 
     private bool isClicking = false; // 防止重复点击触发
 
@@ -32,6 +33,11 @@ public class SharkAudio : MonoBehaviour
     void OnMouseEnter()
     {
         oc.ApplyOutline();
+
+        if (flotT != null)
+        {
+            flotT.gameObject.SetActive(true);
+        }
 
         if (splineWalker != null)
         {
@@ -75,6 +81,11 @@ public class SharkAudio : MonoBehaviour
     void OnMouseExit()
     {
         oc.RevertOutline();
+        
+        if (flotT != null)
+        {
+            flotT.gameObject.SetActive(false);
+        }
 
         if (splineWalker != null)
         {
