@@ -27,7 +27,10 @@ public class SharkAudio : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(audioSource.volume);
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            AudioManager.Instance.StopAll();
+        }
     }
 
     void OnMouseEnter()
@@ -72,7 +75,7 @@ public class SharkAudio : MonoBehaviour
 
         if (audioSource != null)
         {
-            audioSource.Play();
+            AudioManager.Instance.PlayExclusive(audioSource);
         }
 
         isClicking = false;
