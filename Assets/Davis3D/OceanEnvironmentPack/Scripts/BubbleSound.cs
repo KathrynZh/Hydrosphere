@@ -3,7 +3,7 @@
 public class BubbleAmbientSound : MonoBehaviour
 {
     public AudioSource bubbleSound;
-    public float playDistance = 10f;
+    public float playDistance = 15f;
 
     private Transform mainCameraTransform;
     private bool isPlaying = false;
